@@ -105,7 +105,7 @@ header{
     padding-left: 15%;
     padding-right: 15%;
     background-color: rgb(252, 252, 252);
-    margin: 20px;
+    margin: 5px;
     border-radius: 2%;
     border-bottom: 10px;
 }
@@ -120,7 +120,10 @@ header{
 
    padding-top: 10px;
 }
+.start-list{
 
+    padding-top: 20px;
+}
 .info{
 
     display: inline-block;

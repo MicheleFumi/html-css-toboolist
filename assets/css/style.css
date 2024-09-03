@@ -14,8 +14,8 @@
     --toboo-pine-green:#64c0a8;
     --toboo-orange:#f29d33;
     --toboo-pink:#d863a0;
-    -toboo-lime-green:#b0c926;
-    
+    --toboo-lime-green:#b0c926;
+
 
 }
 
@@ -28,8 +28,11 @@
 
 
 
-.header{
+.titleheader{
 
+    padding-top: 20px;
+    padding-left: 20px;
+    
     
 }
 

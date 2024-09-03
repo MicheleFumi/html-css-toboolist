@@ -55,3 +55,19 @@ header{
 }
 
 /* END HEADER  */
+
+#area-buttons{
+
+    display: inline-blocks;
+}
+.button-t{
+
+   
+
+
+}
+.button-s{
+    color:var(--toboo-add-section);
+    border: 2px ;
+    bor
+}

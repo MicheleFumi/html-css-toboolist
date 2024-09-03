@@ -113,16 +113,49 @@ header{
 .greytxt{
 
     color: var(--toboo-text-grey);
-    display: inline-block;
+    
 }
 
-.block{
-
-    display: block;
-
-
-}
 .new-task{
 
    padding-top: 10px;
+}
+
+.info{
+
+    display: inline-block;
+    font-size: 12px;
+    width: 90%;
+    height: 15px;
+    text-align: center;
+    border-radius: 15%;
+    color: white;
+    
+}
+.editorial{
+
+    background: var(--toboo-light-blue);
+}
+.q1{
+    background-color: var(--toboo-violet);
+
+}
+.recruiting{
+    background-color: var(--toboo-pine-green);
+
+}
+
+.mobile{
+    background-color: var(--toboo-orange);
+
+}
+
+.website{
+background-color: var(--toboo-pink);
+
+}
+
+.sales{
+    background-color: var(--toboo-lime-green);
+
 }

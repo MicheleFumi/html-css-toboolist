@@ -21,7 +21,10 @@
 
 
 
+body{
 
+    background-color: var(--toboo-background-grey);
+}
 
 
 

@@ -3,7 +3,21 @@
     margin: auto;
 }
 
+:root{
+    --toboo-black:#000000;
+    --toboo-text-grey:#51565d;
+    --toboo-white: #ffff;
+    --toboo-add-section: #d6dade;
+    --toboo-background-grey: #f6f8f9;
+    --toboo-light-blue:#47acf1;
+    --toboo-violet:#9c72e4;
+    --toboo-pine-green:#64c0a8;
+    --toboo-orange:#f29d33;
+    --toboo-pink:#d863a0;
+    -toboo-lime-green:#b0c926;
+    
 
+}
 
 
 

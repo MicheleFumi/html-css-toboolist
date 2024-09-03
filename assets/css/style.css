@@ -62,9 +62,10 @@ header{
 .container{
     padding-left: 15%;
     padding-right: 15%;
-    background-color: rgb(222, 14, 14);
+    background-color: rgb(252, 252, 252);
     margin: 20px;
     border-radius: 5%;
+    border-bottom: 10px;
 }
 
 
@@ -95,4 +96,33 @@ header{
     padding: 5px 5px;
      text-align: center;
     background-color: white;
+}
+
+
+/* END BUTTONS */
+
+.container2{
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: rgb(252, 252, 252);
+    margin: 20px;
+    border-radius: 2%;
+    border-bottom: 10px;
+}
+
+.greytxt{
+
+    color: var(--toboo-text-grey);
+    display: inline-block;
+}
+
+.block{
+
+    display: block;
+
+
+}
+.new-task{
+
+   padding-top: 10px;
 }

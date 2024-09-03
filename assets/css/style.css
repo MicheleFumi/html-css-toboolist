@@ -70,11 +70,14 @@ header{
     display: inline-blocks;
     padding-top: 10px;
    /*  background-color: white; */
-   background-color: #47acf1;
+   background-color: #52f147;
     margin-top: 5%;
 }
 .button-t{
 
+    padding-left: 20px;
+    background-color: var(--toboo-light-blue);
+    color: white;
    
 
 
